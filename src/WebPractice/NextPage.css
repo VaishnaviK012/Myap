@@ -1,0 +1,21 @@
+#num{
+
+    width: 300px;
+}
+.btn{
+    width: 300px;
+}
+form{
+    box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1); 
+    border: 2px solid #ffffff; 
+    width: 600px;
+    border-radius: 30px;
+}
+
+.container{
+    overflow: hidden;
+}
+
+
+
+    
